@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FavoriteUsers</string>
+    <string name="name">Name</string>
+    <string name="github_user">Github User</string>
+</resources>
